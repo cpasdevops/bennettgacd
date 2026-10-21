@@ -1,0 +1,6 @@
+{
+  "name": "bennettgacd",
+  "description": "Bennett University Global Affairs & Career Development (GACD) - Official comprehensive platform for international academic partnerships, study abroad pathways, corporate recruitment, and student career advisement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
